@@ -21,18 +21,4 @@ I enjoy transforming ideas into real-world products—from responsive frontend i
 
 `Full Stack Development` · `Backend Engineering` · `REST APIs` · `System Design` · `AI-Powered Applications` · `Open Source`
 
-## Technical Skills
-
-**Languages:** JavaScript, TypeScript, Python, Java, C, C++, SQL, HTML5, CSS3, PowerShell, R
-
-**Frontend:** React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS, Material UI, React Query, jQuery
-
-**Backend:** Node.js, Express.js, NestJS, FastAPI, JWT, Nodemon
-
-**Databases & Tools:** MongoDB, PostgreSQL, Redis, Prisma, Git, GitHub, GitHub Actions, GitLab CI, Postman, PNPM, NPM
-
-**Cloud & Deployment:** AWS, Vercel, Render, DigitalOcean, Apache Tomcat
-
-**Design & CMS:** Figma, Canva, WordPress
-
 
