@@ -13,7 +13,7 @@
 
 ## About Me
 
-I am a Full Stack Developer focused on building reliable, scalable, and user-friendly web applications using modern JavaScript technologies.
+I am a Full Stack Developer focused on building reliable, scalable, and user-friendly web applications using modern TypeScript technologies.
 
 I enjoy transforming ideas into real-world products—from responsive frontend interfaces and REST APIs to backend systems, databases, and cloud deployments. I am continuously improving my skills in Data Structures & Algorithms, System Design, and production-ready software development.
 
