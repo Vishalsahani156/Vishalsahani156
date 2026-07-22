@@ -19,6 +19,6 @@ I enjoy transforming ideas into real-world products—from responsive frontend i
 
 ## Focus Areas
 
-`Full Stack Development` · `Backend Engineering` · `REST APIs` · `System Design` · `AI-Powered Applications` · `Open Source`
+`Full Stack Software Development` · `Backend Engineering` · `REST APIs` · `System Design` · `AI-Powered Applications` · `Open Source`
 
 
